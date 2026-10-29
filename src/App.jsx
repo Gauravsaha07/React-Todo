@@ -7,7 +7,7 @@ const App = () => {
 
   const [todos, setTodos] = useState([{
     id: 1,
-    text: "Sample Text"
+    text: "SGS- Sample Text"
   }])
 
   const [edit, setEdit] = useState({
